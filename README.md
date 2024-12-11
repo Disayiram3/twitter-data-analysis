@@ -15,4 +15,4 @@ This project applies NLP techniques to 5000+ tweets related to New Year’s reso
 - **Libraries:** NLTK, Pandas, NumPy, Matplotlib, Seaborn
 - **Techniques:** Sentiment Analysis, Exploratory Data Analysis (EDA)
 
-*For code, data samples, and detailed notebooks, see the repository’s files.*
+*For code and details, see the repository’s files.*
